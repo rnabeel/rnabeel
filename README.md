@@ -2,18 +2,6 @@
 <h3 align="center">A passionate Backend developer</h3>
 
 
-<h3 align="left">About Me:</h3>
-<p align="left">
-Core Technologies: Java, Spring Boot, MySQL, MongoDB.
-Architecture Expertise: Skilled in integrating Kafka and gRPC for high-performance data exchanges, which supports our product's international and national rollouts.
-Academic Background: Bachelor’s Degree in Software Engineering from COMSATS Institute of Information and Technology, decorated with awards in computer science and physics.
-Certifications: Multiple certifications in Java, Spring Boot, and gRPC from Udemy.
-Professional Skills: Proficient in leading projects through all phases of development, from inception to deployment in staging and production environments.
-Industry Focus: Committed to leveraging cutting-edge technology in the fintech domain to develop innovative and impactful solutions.
-<br><br>
-I hold a Bachelor’s Degree in Software Engineering from COMSATS Institute of Information and Technology, with multiple certifications in Java, Spring Boot, and gRPC. I thrive in environments that require both teamwork and individual initiative, focusing on developing innovative and impactful fintech solutions.
-</p>
-
 <p align="left"> <a href="https://twitter.com/nabeeldce" target="blank"><img src="https://img.shields.io/twitter/follow/nabeeldce?logo=twitter&style=for-the-badge" alt="nabeeldce" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
