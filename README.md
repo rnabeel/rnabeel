@@ -10,7 +10,7 @@ I am constantly seeking out new challenges and opportunities to learn and grow a
 Thank you for taking the time to read my bio!
 
 ## 🌐 Socials:
-![Behance](https://behance.net/enaeemullah) ![Facebook](https://facebook.com/enaeemullah) ![Instagram](https://instagram.com/enaeemullah) ![LinkedIn](https://linkedin.com/in/enaeemullah) ![Twitter](https://twitter.com/Oshomarka8) 
+![Behance](https://behance.net/enaeemullah) ![Facebook](https://facebook.com/enaeemullah) ![Instagram](https://instagram.com/enaeemullah) (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enaeemullah) ![Twitter](https://twitter.com/Oshomarka8) 
 
 # 💻 Tech Stack:
 <div align="left">
