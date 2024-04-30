@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rnabeelahmad" target="blank"><img src="https://img.shields.io/twitter/follow/rnabeelahmad?logo=twitter&style=for-the-badge" alt="rnabeelahmad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rnabeelahmad" target="blank"><img src="https://img.shields.io/twitter/follow/nabeeldce?logo=twitter&style=for-the-badge" alt="nabeeldce" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
