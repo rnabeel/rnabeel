@@ -20,7 +20,7 @@
 - **Industry Focus**: Committed to leveraging cutting-edge technology in the fintech domain to develop innovative and impactful solutions
 
 ### 🌐 LinkedIn Profile
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
+[![LinkedIn Badge](https://img.shields.io/badge/-Raja_Nabeel_Ahmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
 
               
               
