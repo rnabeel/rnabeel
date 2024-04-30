@@ -10,7 +10,7 @@ I am constantly seeking out new challenges and opportunities to learn and grow a
 Thank you for taking the time to read my bio!
 
 ## 🌐 Socials:
- ![Instagram](https://instagram.com/nabeel.dce) ![LinkedIn](https://linkedin.com/in/rnabeelahmad)
+![Behance](https://behance.net/enaeemullah) ![Facebook](https://facebook.com/enaeemullah) ![Instagram](https://instagram.com/enaeemullah) ![LinkedIn](https://linkedin.com/in/enaeemullah) ![Twitter](https://twitter.com/Oshomarka8) 
 
 # 💻 Tech Stack:
 <div align="left">
