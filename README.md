@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nabeel and I am a Sr. Java developer. I have a passion for creating user-friendly, dynamic web applications that make a positive impact on people's lives.
+My name is Naeem and I am a ME[R/A]N stack and Java developer. I have a passion for creating user-friendly, dynamic web applications that make a positive impact on people's lives.
 
 With a strong background in JavaScript, React, Angular, Node, MongoDB and MySql. I specialize in building front-end interfaces that are intuitive, responsive, and visually appealing. Additionally, I have extensive experience working with back-end technologies like Node.js and Express to create robust, scalable APIs that power seamless data transmission between the client and server.
 
@@ -10,7 +10,8 @@ I am constantly seeking out new challenges and opportunities to learn and grow a
 Thank you for taking the time to read my bio!
 
 ## 🌐 Socials:
-![Instagram](https://instagram.com/nabeel.dce) https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white ![LinkedIn](https://linkedin.com/in/rnabeelahmad)
+![Behance](https://behance.net/enaeemullah) ![Facebook](https://facebook.com/enaeemullah) ![Instagram](https://instagram.com/enaeemullah) ![LinkedIn](https://linkedin.com/in/enaeemullah) ![Twitter](https://twitter.com/Oshomarka8) 
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -55,25 +56,24 @@ Thank you for taking the time to read my bio!
 
 
 ###
-<!-- !https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E 
-!https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white 
-!https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white 
-!https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB 
-!https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql 
-!https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white 
-!https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white 
-!https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB 
-!https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white 
-!https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white 
-!https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white 
-!https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white 
-!https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white 
-!https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white 
-!https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white 
-!https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black  -->
+<!-- !JavaScript 
+!TypeScript 
+!Angular 
+!React 
+!Apollo-GraphQL 
+!Chakra 
+!Bootstrap 
+!Express.js 
+!NPM 
+!Next JS 
+!NodeJS 
+!Styled Components 
+!MongoDB 
+!MySQL 
+!Adobe Illustrator 
+!LINUX  -->
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enaeemullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enaeemullah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enaeemullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
