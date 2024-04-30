@@ -11,7 +11,6 @@ Thank you for taking the time to read my bio!
 
 ## 🌐 Socials:
 ![Behance](https://behance.net/enaeemullah) ![Facebook](https://facebook.com/enaeemullah) ![Instagram](https://instagram.com/enaeemullah) ![LinkedIn](https://linkedin.com/in/enaeemullah) ![Twitter](https://twitter.com/Oshomarka8) 
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
