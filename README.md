@@ -20,6 +20,8 @@
 - **Industry Focus**: Committed to leveraging cutting-edge technology in the fintech domain to develop innovative and impactful solutions
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rnabeelahmad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/rnabeelahmad?trk=profile-badge">Raja Nabeel Ahmad</a></div>
+              
               
 
 <h3 align="left">Languages and Tools:</h3>
