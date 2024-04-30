@@ -2,7 +2,12 @@
 <h3 align="center">A passionate Backend developer</h3>
 
 
-
+<h3 align="left">About Me:</h3>
+<p align="left">
+I am a Senior Software Engineer at MFSYS Technologies, adept at building advanced features for banking solutions using a Spring Boot-based microservices architecture. My work includes implementing Kafka and gRPC architectures for efficient data exchange, essential for our products' rollout both nationally and internationally.
+<br><br>
+I hold a Bachelor’s Degree in Software Engineering from COMSATS Institute of Information and Technology, with multiple certifications in Java, Spring Boot, and gRPC. I thrive in environments that require both teamwork and individual initiative, focusing on developing innovative and impactful fintech solutions.
+</p>
 
 <p align="left"> <a href="https://twitter.com/nabeeldce" target="blank"><img src="https://img.shields.io/twitter/follow/nabeeldce?logo=twitter&style=for-the-badge" alt="nabeeldce" /></a> </p>
 
