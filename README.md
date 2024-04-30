@@ -4,7 +4,12 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I am a Senior Software Engineer at MFSYS Technologies, adept at building advanced features for banking solutions using a Spring Boot-based microservices architecture. My work includes implementing Kafka and gRPC architectures for efficient data exchange, essential for our products' rollout both nationally and internationally.
+Core Technologies: Java, Spring Boot, MySQL, MongoDB.
+Architecture Expertise: Skilled in integrating Kafka and gRPC for high-performance data exchanges, which supports our product's international and national rollouts.
+Academic Background: Bachelor’s Degree in Software Engineering from COMSATS Institute of Information and Technology, decorated with awards in computer science and physics.
+Certifications: Multiple certifications in Java, Spring Boot, and gRPC from Udemy.
+Professional Skills: Proficient in leading projects through all phases of development, from inception to deployment in staging and production environments.
+Industry Focus: Committed to leveraging cutting-edge technology in the fintech domain to develop innovative and impactful solutions.
 <br><br>
 I hold a Bachelor’s Degree in Software Engineering from COMSATS Institute of Information and Technology, with multiple certifications in Java, Spring Boot, and gRPC. I thrive in environments that require both teamwork and individual initiative, focusing on developing innovative and impactful fintech solutions.
 </p>
