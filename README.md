@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabeel</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/nabeeldce" target="blank"><img src="https://img.shields.io/twitter/follow/nabeeldce?logo=twitter&style=for-the-badge" alt="nabeeldce" /></a> </p>
-
 ### 🌐 LinkedIn Profile
 [![LinkedIn Badge](https://img.shields.io/badge/-Raja_Nabeel_Ahmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
 
