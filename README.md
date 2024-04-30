@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabeel</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-### 🌐 LinkedIn Profile
-[![LinkedIn Badge](https://img.shields.io/badge/-Raja_Nabeel_Ahmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
-
 ## 👨‍💻 Professional Summary
 - **Core Technologies**: Java, Spring Boot, MySQL, MongoDB
 - **Architecture Expertise**: Skilled in integrating Kafka and gRPC for high-performance data exchanges, supporting our product's international and national rollouts
@@ -12,6 +9,8 @@
 - **Professional Skills**: Proficient in leading projects through all phases of development, from inception to deployment in staging and production environments
 - **Industry Focus**: Committed to leveraging cutting-edge technology in the fintech domain to develop innovative and impactful solutions
 
+### 🌐 LinkedIn Profile
+[![LinkedIn Badge](https://img.shields.io/badge/-Raja_Nabeel_Ahmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
               
 <h3 align="left">Socials:</h3>
 <p align="left">
