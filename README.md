@@ -8,7 +8,8 @@
 - **Certifications**: Multiple certifications in Java, Spring Boot, and gRPC from Udemy
 - **Professional Skills**: Proficient in leading projects through all phases of development, from inception to deployment in staging and production environments
 - **Industry Focus**: Committed to leveraging cutting-edge technology in the fintech domain to develop innovative and impactful solutions
-<img src="https://camo.githubusercontent.com/0699cbec59b6cfa50c9e7a7c4d4ff1468dd4d383a770dc8ffc4c3b034714e2a8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4857335431775757337a324666326370584f2f67697068792e676966" alt="gif" width="500" height="400"/>
+<img src="https://camo.githubusercontent.com/0699cbec59b6cfa50c9e7a7c4d4ff1468dd4d383a770dc8ffc4c3b034714e2a8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4857335431775757337a324666326370584f2f67697068792e676966" alt="gif" width="500" height="200"/>
+
 ### 🌐 LinkedIn Profile
 [![LinkedIn Badge](https://img.shields.io/badge/-Raja_Nabeel_Ahmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
               
