@@ -28,7 +28,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
 
 <div align="center">
-  <a href="https://github.com/smfai200/smfai200">
+  <a href="https://github.com/rnabeel/rnabeel">
   <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake" /></a>
 </div>
 
