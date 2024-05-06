@@ -12,7 +12,15 @@
 
 ### 🌐 LinkedIn Profile
 [![LinkedIn Badge](https://img.shields.io/badge/-Raja_Nabeel_Ahmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rnabeelahmad)
-              
+
+<br>
+
+# 📊 GitHub Stats:
+        ![](https://github-readme-stats.vercel.app/api?username=rnabeel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=500) 
+        ![](https://github-readme-streak-stats.herokuapp.com/?user=rnabeel&theme=tokyonight&hide_border=false&card_width=500)
+        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rnabeel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000&card_height=500)
+<br>
+
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/rnabeelahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rnabeelahmad" height="30" width="40" /></a>
