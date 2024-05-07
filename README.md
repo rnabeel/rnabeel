@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabeel</h1>
-<h3 align="center">A passionate Freelancer</h3>
+<h3 align="center">A passionate Backend devloper</h3>
 
 ## 👨‍💻 Professional Summary
 - **Core Technologies**: Java, Spring Boot, MySQL, MongoDB
